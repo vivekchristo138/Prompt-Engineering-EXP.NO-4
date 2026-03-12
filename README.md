@@ -16,6 +16,7 @@ Procedure
 1. Comparative Analysis Prompt
 
 Definition:
+
 A Comparative Analysis Prompt asks the AI to compare two or more items by identifying their similarities and differences based on specific criteria. It helps in understanding which option is better for a particular situation.
 
 Example 1
@@ -43,6 +44,7 @@ Cloud storage allows users to access files from anywhere using the internet. It 
 2. Experiential Perspective Prompt
 
 Definition:
+
 An Experiential Perspective Prompt asks the AI to explain a topic from the viewpoint or experience of a specific person, such as a student, teacher, engineer, or user.
 
 Example 1
@@ -70,6 +72,7 @@ From a teacher’s perspective, online classes allow teaching from any location 
 3. Everyday Functioning Prompts
 
 Definition:
+
 An Everyday Functioning Prompt asks the AI to explain how a technology or concept works in daily life and how it helps people perform regular activities.
 
 Example 1
@@ -94,6 +97,10 @@ Explain how digital payment systems like UPI help people perform financial trans
 Output:
 Digital payment systems like UPI allow users to send and receive money instantly through mobile applications. People can pay for groceries, bills, transportation, and other services without using cash. The system uses secure authentication methods such as PIN verification to protect transactions. This makes payments quick, convenient, and secure for everyday use.
 
+
+
+
 Result
+
 
 The different types of prompts were applied successfully to the selected use case of smart manufacturing automation using IoT. The prompts helped generate useful explanations, comparisons, and real-world applications related to the scenario. The experiment demonstrated that using structured prompting techniques improves the clarity, relevance, and quality of AI-generated responses. Therefore, the various types of prompts were executed successfully and the report was generated effectively.
