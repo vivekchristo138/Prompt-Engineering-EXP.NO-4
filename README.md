@@ -11,101 +11,88 @@ In the manufacturing industry, automation can significantly improve productivity
 These systems help companies detect equipment failures early, perform predictive maintenance, and reduce downtime. They also allow managers to monitor operations remotely and optimize energy usage. Industries such as automotive, electronics, and food processing benefit greatly from this automation because it increases production efficiency and reduces operational costs.
 
 Procedure
-Step 1: Define the Scenario and Use Case
-Scenario
 
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
 
-Target Audience
-
-Manufacturing companies, particularly in sectors such as:
-
-Automotive manufacturing
-
-Electronics production
-
-Food processing industries
-
-where automation can significantly improve productivity.
-
-Main Objectives
-
-Improve production efficiency by 30%.
-
-Minimize machinery downtime through predictive maintenance.
-
-Enable real-time monitoring and remote control of manufacturing systems.
-
-Reduce energy consumption by optimizing industrial processes.
-
-Step 2: Identify Prompt Patterns for Each Design Aspect
-1. Idea Generation Prompts
-
-Idea generation prompts help generate innovative solutions and suggestions.
-
-Prompt Example:
-Suggest ways IoT technology can improve efficiency in manufacturing industries.
-
-2. Comparative Analysis Prompt
+1. Comparative Analysis Prompt
 
 Definition:
-A comparative analysis prompt asks the AI to compare two or more concepts by highlighting similarities and differences.
-
-Examples:
-
-Compare and contrast deep learning and machine learning.
-
-How do renewable and non-renewable energy sources differ?
-
-3. Experiential Perspective Prompt
-
-This prompt asks the AI to answer from a specific viewpoint or professional role.
-
-Examples:
-
-“As a software engineer, what are the benefits of using cloud computing in your projects?”
-
-“From a student’s perspective, describe the challenges of online learning.”
-
-4. Everyday Functioning Prompts
-
-These prompts connect technical concepts with everyday applications.
-
-Examples:
-
-“Describe the role of machine learning in everyday apps like YouTube or Netflix.”
-
-“How is encryption used in daily life when sending WhatsApp messages?”
-
-Step 3: Universal Prompt Structures
-
-These are general-purpose prompt formats that work across many AI tasks.
-
-Examples:
-
-“Explain [concept] in simple terms with an example.”
-
-“Explain the process of [task] step by step.”
-
-Step 4: Prompt Size Limitations
-
-Large prompts should be broken into smaller parts for better results.
+A Comparative Analysis Prompt asks the AI to compare two or more items by identifying their similarities and differences based on specific criteria. It helps in understanding which option is better for a particular situation.
 
 Example 1
 
-Large prompt:
-Translate this 5000-word essay into Tamil.
+Scenario:
+You are planning to buy a laptop for your college studies. You mainly use the laptop for programming, watching lectures, preparing assignments, and browsing the internet. You are confused between Laptop A and Laptop B. Laptop A has a powerful processor and more storage, while Laptop B is lighter and has longer battery life. You want to know which laptop will be more suitable for your daily academic use.
 
-Improved prompt:
-Translate the first 1000 words into Tamil, then continue.
+Prompt:
+Compare Laptop A and Laptop B based on processor performance, battery life, portability, and price. Explain their advantages and disadvantages and suggest which laptop is better for a college student.
+
+Output:
+Laptop A has a stronger processor and larger storage, which makes it suitable for programming and running multiple applications. However, it may be slightly heavier and more expensive. Laptop B is lighter and offers better battery life, making it easier to carry around campus and use for longer hours without charging. While Laptop A is better for performance-intensive tasks, Laptop B is better for portability and long usage time. For a college student who needs both performance and convenience, Laptop B may be the more practical choice if heavy computing tasks are not required.
 
 Example 2
 
-Large prompt:
-Give me 50 examples of AI applications.
+Scenario:
+You want to store your important files and study materials safely. You are confused between using cloud storage services (like Google Drive) and external hard drives. You want to understand which method is better for storing notes, assignments, photos, and project files.
 
-Improved prompt:
-Give me 10 AI applications at a time.
+Prompt:
+Compare cloud storage and external hard drives in terms of accessibility, storage capacity, security, and cost. Explain which option is better for students to store their files.
+
+Output:
+Cloud storage allows users to access files from anywhere using the internet. It is convenient for sharing files and keeping backups online. However, it requires internet access and may have limited free storage. External hard drives provide large storage capacity and do not require internet access, but they can be damaged or lost. Cloud storage is better for accessibility and sharing, while external hard drives are better for large offline storage. For most students, cloud storage is more convenient for daily academic use.
+
+2. Experiential Perspective Prompt
+
+Definition:
+An Experiential Perspective Prompt asks the AI to explain a topic from the viewpoint or experience of a specific person, such as a student, teacher, engineer, or user.
+
+Example 1
+
+Scenario:
+You want to understand how AI tools help students in their studies.
+
+Prompt:
+From a student’s perspective, explain how AI tools help in learning new subjects and completing assignments.
+
+Output:
+From a student’s perspective, AI tools help by explaining complex topics in a simple way. They provide quick answers to questions and assist in finding information for assignments and projects. AI tools can also suggest ideas and help improve writing. However, students should use them as learning support rather than completely depending on them.
+
+Example 2
+
+Scenario:
+You want to know how online classes affect teachers.
+
+Prompt:
+From a teacher’s perspective, explain the advantages and challenges of conducting online classes.
+
+Output:
+From a teacher’s perspective, online classes allow teaching from any location and make it easy to share digital resources like presentations and videos. Teachers can record lectures so students can review them later. However, maintaining student attention and checking their understanding can be challenging. Internet connectivity problems may also interrupt the learning process.
+
+3. Everyday Functioning Prompts
+
+Definition:
+An Everyday Functioning Prompt asks the AI to explain how a technology or concept works in daily life and how it helps people perform regular activities.
+
+Example 1
+
+Scenario:
+You use Google Maps frequently when traveling to new places.
+
+Prompt:
+Explain how GPS technology helps Google Maps provide directions and navigation in everyday travel.
+
+Output:
+GPS technology uses satellites to determine the location of a mobile device. Google Maps receives this location data and shows the user’s current position on the map. It calculates the best route to the destination and also analyzes traffic conditions to suggest faster routes. This helps people travel easily and reach places without getting lost.
+
+Example 2
+
+Scenario:
+You often make online payments using mobile apps.
+
+Prompt:
+Explain how digital payment systems like UPI help people perform financial transactions in daily life.
+
+Output:
+Digital payment systems like UPI allow users to send and receive money instantly through mobile applications. People can pay for groceries, bills, transportation, and other services without using cash. The system uses secure authentication methods such as PIN verification to protect transactions. This makes payments quick, convenient, and secure for everyday use.
 
 Result
 
