@@ -103,4 +103,6 @@ Digital payment systems like UPI allow users to send and receive money instantly
 Result
 
 
-The different types of prompts were applied successfully to the selected use case of smart manufacturing automation using IoT. The prompts helped generate useful explanations, comparisons, and real-world applications related to the scenario. The experiment demonstrated that using structured prompting techniques improves the clarity, relevance, and quality of AI-generated responses. Therefore, the various types of prompts were executed successfully and the report was generated effectively.
+1.The different types of prompts were applied successfully to the selected use case of smart manufacturing automation using IoT. The prompts helped generate useful explanations, comparisons, and real-world applications related to the scenario.
+2.The experiment demonstrated that using structured prompting techniques improves the clarity, relevance, and quality of AI-generated responses.
+3.Therefore, the various types of prompts were executed successfully and the report was generated effectively.
